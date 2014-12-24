@@ -1,6 +1,8 @@
 #ifdef WIN32
 #include <Windows.h>
-
+/**
+ * Licence: GNU GPLv2
+ * /
 /*
     Link with user32.lib
     Compile it as follows:
